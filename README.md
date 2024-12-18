@@ -143,6 +143,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Nashaat Fathy - nashaatfathy878@gmail.com
 
 Project Link: https://github.com/n7xx/weather-app
