@@ -154,7 +154,7 @@ const WeatherCardRenderer = {
 
         return `
           <div class="col-xl-4 weather-info rounded-start-1 px-0">
-            <div class="card border-0 rounded-start-1 rounded-end-0">
+            <div class="card border-0 h-100 rounded-start-1 rounded-end-0">
               <div class="card-header d-flex justify-content-between pt-3 pb-1">
                 <h2>${formattedDate.day}</h2>
                 <h3>${formattedDate.date} ${formattedDate.month}</h3>
