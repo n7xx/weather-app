@@ -1,0 +1,43 @@
+@media screen and (max-width: 768px) {
+
+  header {
+    padding: 0;
+  }
+  header h1 {
+    font-size: 35px;
+    margin-top: 30px;
+  }
+
+  .formInputs h2 i {
+    font-size: 12px;
+  }
+  header .container {
+    width: 100%;
+  }
+  header .container .formInputs h2 {
+    font-size: 1.2rem;
+    font-weight: 600;
+        font-size: 18px;
+  }
+  #submitBtn, #UpdateBtn {
+    width: 50%;
+    font-size: 14px;
+}
+label {
+  font-size: 14px;
+}
+input[placeholder] {
+  font-size: 14px;
+}
+th, td {
+  font-size: 14px;
+}
+td button i {
+  font-size: 12px;
+}
+.btn-sm {
+      --bs-btn-padding-y: 0rem;
+      --bs-btn-padding-x: 0.9rem;
+}
+}
+
